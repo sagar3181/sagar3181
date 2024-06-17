@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sagar Rajesh Badgujar</h1>
 <h3 align="center">### About Me I am a computer science student pursuing a master's in CS @ SLU. Moreover, I am an aspiring software engineer eager to tackle real-world challenges and build innovative solutions.</h3>
-<img align="right" alt="coding" src="[https://cdn.dribbble.com/users/219482/screenshots/14676444/media/28fa0b64b0454de0d0664e364e4f95fc.gif](https://i.gifer.com/7Sv6.gif)">
+<img align="right" alt="coding" src="[[https://cdn.dribbble.com/users/219482/screenshots/14676444/media/28fa0b64b0454de0d0664e364e4f95fc.gif](https://i.gifer.com/7Sv6.gif)](https://gifdb.com/images/high/coding-skills-loading-dk68v8z0hevjpuiv.gif)">
 
 - 🌱 I’m currently learning **React framework, backend development, APIs, and Data Structures and Algorithms (DSA).**
 
